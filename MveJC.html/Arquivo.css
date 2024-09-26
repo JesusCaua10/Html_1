@@ -1,0 +1,71 @@
+.titulo {
+color:red
+}
+#grandao{
+
+    font-size:100px;
+}
+.centro{
+
+    text-align:center;
+}
+body {
+    display:flex;
+    flex-direction:column ;
+    justify-content:center ;
+    align-items:center ;
+    height:100vh;
+    margin:0px ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

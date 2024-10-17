@@ -1,0 +1,35 @@
+#body {
+    display:flex;
+    flex-direction:column ;
+    justify-content:center ;
+    align-items:center ;
+    height:100vh;
+    margin:0px ;   
+    background-color: white;
+}
+#botton{
+    font-size:15px ;
+}
+#daora{
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: black;
+    border: 3px;
+    outline-style: solid;
+    outline-color: gray;
+    border-radius: 25px;
+}
+.contornop{
+    border: 2px;
+  outline-style: outset;
+  outline-color:;
+  background-color:gray;
+  /* border-radius: 25px; */
+}
+
+
+
+
+
+
